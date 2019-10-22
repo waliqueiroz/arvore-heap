@@ -1,2 +1,2 @@
 # arvore-heap
-Implementação simples em Java de uma arvore heap.
+Implementação simples de uma arvore heap em Java .
